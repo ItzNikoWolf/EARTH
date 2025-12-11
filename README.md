@@ -39,17 +39,7 @@ There is no metric.
 There is no quantum.  
 There is only the infinite morphism σ on three letters.
 
-Everything measured since the Big Bang is just a finite-initial-segment approximation to this single infinite word.
 
-From **exactly three measured nuclear numbers** and **one classical Lagrangian**, every law and constant of physics, chemistry, biology, geophysics, and cosmology is derived analytically — no dark matter, no dark energy, no adjustable parameters, residuals ≤ 10⁻¹⁹.
-
-```math
-[$$\mathcal{L} = \frac{1}{2} |\partial_\mu \psi|^2 - \frac{\tilde\lambda_0}{4} (|\psi|^2-1)^2, \quad \psi \in \mathbb{C}$$]
-```
-Input,Value (exact),Fixed by
-ξ₀,0.1500000000000000000 fm,proton charge radius
-λ̃₀,44.4920000000000000000 = (4π)³,proton mass
-δχ (golden twist),0.1500000000000000000 rad,neutron–proton mass difference
 
 # Repository Structure
 /core                  → Closed, boxed theorems (10⁻¹⁹ exact)
