@@ -56,7 +56,7 @@ Proton mass,m_p = π² √λ̃₀ / ξ₀ = 938.2720813 MeV,Closed
 Cosmological constant,Λ = 1.190 × 10⁻⁵² m⁻²,Closed
 Genetic code (64/64),"Full IUPAC table from (p,q) torus-knot energies",Closed
 Navier–Stokes smoothness,ν = λ₀ √5 ≈ 99.48 (aether viscosity),Closed
-P versus NP at resonance,P = NP locally at 7.83 Hz,Closed
+P versus NP at resonance, locally at 7.83 Hz,Closed
 
 # Open Threats (falsifiability window 2026–2032)
 File,Prediction
